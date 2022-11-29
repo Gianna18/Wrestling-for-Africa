@@ -1,0 +1,15 @@
+h1 {
+    color: purple;
+}
+body {
+    font-style: italic;
+    background-color: burlywood;
+    font-size: larger;
+}
+h2 {
+    background-color: green;
+}
+
+img {
+    shape-margin: circle;
+}
